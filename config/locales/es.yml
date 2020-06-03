@@ -132,7 +132,7 @@ es:
         username: Nombre de usuario
       title: Administrar usuarios
   add_to_google_calendar: "Agregar al Calendario de Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Puntotres_VideoConf
   bigbluebutton_exception: ¡Oh no! Ocurrió un error al iniciar la sesión.
   cancel: Cancelar
   cookies:
@@ -200,13 +200,13 @@ es:
     designs: Diseño personalizado
     authentication: Autentificación de usuario
   footer:
-    powered_by: "Funciona con %{href}"
+    powered_by: "Videoconferencia %{href}"
   forgot_password:
     subtitle: Olvidé la contraseña
     email: Cuenta de correo
     submit: Enviar
   go_back: Atrás
-  greenlight: Greenlight
+  greenlight: Puntotres
   header:
     all_recordings: Todas las grabaciones
     dropdown:
