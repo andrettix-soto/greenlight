@@ -230,7 +230,7 @@ es_MX:
     designs: Diseño personalizado
     authentication: Autentificación de usuario
   footer:
-    powered_by: "Videoconferencia %{href}"
+    powered_by: "Videoconferencia repo %{href}"
   forgot_password:
     subtitle: Olvidé la contraseña
     email: Cuenta de correo
